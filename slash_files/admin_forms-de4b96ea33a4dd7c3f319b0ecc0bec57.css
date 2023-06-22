@@ -1,0 +1,11 @@
+.form-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.js .paragraph-type-title {
+  overflow: inherit;
+}
+
+.paragraph-type-top, .paragraph-type-title, .paragraph-type, .form-type-textarea, .field-multiple-table .form-item {
+  margin-bottom: 0;
+}
